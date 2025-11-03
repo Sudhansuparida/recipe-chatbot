@@ -18,7 +18,7 @@ Can be integrated with any frontend (HTML/React/Vue, etc.)
 Requirements:
 Make sure you have Python 3.9+ installed.
 Then install dependencies using:
-pip install fastapi uvicorn pandas sentence-transformers
+pip install -r requirements.txt
 
 Folder Structure:
 recipe-chatbot/
@@ -63,6 +63,10 @@ Expected Output Example:
 }
 ]
 }
+
+==========================================
+#RUN STREAMLIT APPLICATION
+streamlit run app.py
 
 How It Works:
 
