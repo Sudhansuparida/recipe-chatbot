@@ -29,3 +29,273 @@ Pani Puri,"Semolina, Potato, Chickpeas, Spicy Water, Tamarind Chutney","Fill pur
 Bhindi Masala,"Okra, Onion, Tomato, Spices, Oil",Cook okra with onion and tomato masala.
 Egg Biryani,"Boiled Eggs, Rice, Spices, Fried Onion, Ghee","Layer boiled eggs and rice with masala, cook on dum."
 Matar Paneer,"Paneer, Peas, Onion, Tomato, Spices",Cook peas and paneer in onion-tomato curry.
+Methi Malai Matar Variant 1,"Paneer, Cream, Butter, Spices","Combine ingredients, cook covered for 15 minutes and serve."
+Paratha Variant 2,"Rice, Vegetables, Ghee, Saffron, Spices","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Kashmiri Pulao Variant 3,"Paneer, Cream, Butter, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Paneer Fried Rice Variant 4,"Chicken, Garlic, Ginger, Onion, Tomato","Combine ingredients, cook covered for 15 minutes and serve."
+Paneer Tikka Variant 5,"Onion, Tomato, Spices, Oil, Salt","Prepare masala base, add main ingredient and cook till done."
+Veg Momos Variant 6,"Paneer, Cream, Butter, Spices","Prepare masala base, add main ingredient and cook till done."
+Aloo Matar Variant 7,"Onion, Tomato, Spices, Oil, Salt","Heat oil, add spices, mix well and cook till desired texture."
+Veg Manchurian Variant 8,"Paneer, Cream, Butter, Spices","Prepare masala base, add main ingredient and cook till done."
+Crab Masala Variant 9,"Lentils, Ghee, Cumin, Mustard Seeds","Prepare masala base, add main ingredient and cook till done."
+Aloo Matar Variant 10,"Chicken, Garlic, Ginger, Onion, Tomato","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Veg Manchurian Variant 11,"Chicken, Garlic, Ginger, Onion, Tomato","Prepare masala base, add main ingredient and cook till done."
+Aloo Matar Variant 12,"Onion, Tomato, Spices, Oil, Salt","Prepare masala base, add main ingredient and cook till done."
+Jeera Rice Variant 13,"Rice, Vegetables, Ghee, Saffron, Spices","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Veg Momos Variant 14,"Onion, Tomato, Spices, Oil, Salt","Prepare masala base, add main ingredient and cook till done."
+Sooji Halwa Variant 15,"Chicken, Garlic, Ginger, Onion, Tomato","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Chicken Momos Variant 16,"Lentils, Ghee, Cumin, Mustard Seeds","Prepare masala base, add main ingredient and cook till done."
+Curd Rice Variant 17,"Rice, Vegetables, Ghee, Saffron, Spices","Heat oil, add spices, mix well and cook till desired texture."
+Aloo Matar Variant 18,"Chicken, Garlic, Ginger, Onion, Tomato","Heat oil, add spices, mix well and cook till desired texture."
+Prawn Curry Variant 19,"Paneer, Cream, Butter, Spices","Combine ingredients, cook covered for 15 minutes and serve."
+Tamarind Rice Variant 20,"Onion, Tomato, Spices, Oil, Salt","Prepare masala base, add main ingredient and cook till done."
+Paneer Tikka Variant 21,"Rice, Vegetables, Ghee, Saffron, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Egg Fried Rice Variant 22,"Rice, Vegetables, Ghee, Saffron, Spices","Prepare masala base, add main ingredient and cook till done."
+Chicken 65 Variant 23,"Rice, Vegetables, Ghee, Saffron, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Sooji Halwa Variant 24,"Onion, Tomato, Spices, Oil, Salt","Prepare masala base, add main ingredient and cook till done."
+Veg Momos Variant 25,"Lentils, Ghee, Cumin, Mustard Seeds","Combine ingredients, cook covered for 15 minutes and serve."
+Poori Bhaji Variant 26,"Chicken, Garlic, Ginger, Onion, Tomato","Combine ingredients, cook covered for 15 minutes and serve."
+Paratha Variant 27,"Paneer, Cream, Butter, Spices","Combine ingredients, cook covered for 15 minutes and serve."
+Tandoori Chicken Variant 28,"Paneer, Cream, Butter, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Paratha Variant 29,"Chicken, Garlic, Ginger, Onion, Tomato","Heat oil, add spices, mix well and cook till desired texture."
+Rasgulla Variant 30,"Onion, Tomato, Spices, Oil, Salt","Combine ingredients, cook covered for 15 minutes and serve."
+Sooji Halwa Variant 31,"Paneer, Cream, Butter, Spices","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Chicken Tikka Variant 32,"Rice, Vegetables, Ghee, Saffron, Spices","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Rasgulla Variant 33,"Onion, Tomato, Spices, Oil, Salt",Cook all ingredients on medium flame till soft and aromatic.
+Prawn Curry Variant 34,"Rice, Vegetables, Ghee, Saffron, Spices","Combine ingredients, cook covered for 15 minutes and serve."
+Chapati Variant 35,"Onion, Tomato, Spices, Oil, Salt","Combine ingredients, cook covered for 15 minutes and serve."
+Tandoori Chicken Variant 36,"Lentils, Ghee, Cumin, Mustard Seeds","Prepare masala base, add main ingredient and cook till done."
+Lemon Rice Variant 37,"Paneer, Cream, Butter, Spices","Prepare masala base, add main ingredient and cook till done."
+Egg Fried Rice Variant 38,"Paneer, Cream, Butter, Spices","Combine ingredients, cook covered for 15 minutes and serve."
+Sabudana Khichdi Variant 39,"Paneer, Cream, Butter, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Malai Kofta Variant 40,"Lentils, Ghee, Cumin, Mustard Seeds","Combine ingredients, cook covered for 15 minutes and serve."
+Fish Fry Variant 41,"Rice, Vegetables, Ghee, Saffron, Spices","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Chili Paneer Variant 42,"Onion, Tomato, Spices, Oil, Salt","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Sabudana Khichdi Variant 43,"Chicken, Garlic, Ginger, Onion, Tomato","Heat oil, add spices, mix well and cook till desired texture."
+Besan Ladoo Variant 44,"Onion, Tomato, Spices, Oil, Salt",Cook all ingredients on medium flame till soft and aromatic.
+Prawn Curry Variant 45,"Lentils, Ghee, Cumin, Mustard Seeds","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Sabudana Khichdi Variant 46,"Paneer, Cream, Butter, Spices","Combine ingredients, cook covered for 15 minutes and serve."
+Paneer Tikka Variant 47,"Rice, Vegetables, Ghee, Saffron, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Sweet Corn Soup Variant 48,"Onion, Tomato, Spices, Oil, Salt",Cook all ingredients on medium flame till soft and aromatic.
+Kashmiri Pulao Variant 49,"Lentils, Ghee, Cumin, Mustard Seeds","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Paneer Tikka Variant 50,"Rice, Vegetables, Ghee, Saffron, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Jeera Rice Variant 51,"Rice, Vegetables, Ghee, Saffron, Spices","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Paneer Fried Rice Variant 52,"Chicken, Garlic, Ginger, Onion, Tomato","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Chili Paneer Variant 53,"Onion, Tomato, Spices, Oil, Salt","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Veg Manchurian Variant 54,"Paneer, Cream, Butter, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Curd Rice Variant 55,"Rice, Vegetables, Ghee, Saffron, Spices","Prepare masala base, add main ingredient and cook till done."
+Vegetable Cutlet Variant 56,"Paneer, Cream, Butter, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Malai Kofta Variant 57,"Onion, Tomato, Spices, Oil, Salt","Prepare masala base, add main ingredient and cook till done."
+Malai Kofta Variant 58,"Chicken, Garlic, Ginger, Onion, Tomato","Prepare masala base, add main ingredient and cook till done."
+Vegetable Soup Variant 59,"Paneer, Cream, Butter, Spices","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Veg Kurma Variant 60,"Onion, Tomato, Spices, Oil, Salt","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Curd Rice Variant 61,"Onion, Tomato, Spices, Oil, Salt","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Lemon Rice Variant 62,"Lentils, Ghee, Cumin, Mustard Seeds","Heat oil, add spices, mix well and cook till desired texture."
+Besan Ladoo Variant 63,"Onion, Tomato, Spices, Oil, Salt",Cook all ingredients on medium flame till soft and aromatic.
+Paneer Tikka Variant 64,"Onion, Tomato, Spices, Oil, Salt","Combine ingredients, cook covered for 15 minutes and serve."
+Veg Manchurian Variant 65,"Paneer, Cream, Butter, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Veg Manchurian Variant 66,"Chicken, Garlic, Ginger, Onion, Tomato","Prepare masala base, add main ingredient and cook till done."
+Veg Momos Variant 67,"Rice, Vegetables, Ghee, Saffron, Spices","Prepare masala base, add main ingredient and cook till done."
+Kashmiri Pulao Variant 68,"Chicken, Garlic, Ginger, Onion, Tomato","Prepare masala base, add main ingredient and cook till done."
+Besan Ladoo Variant 69,"Paneer, Cream, Butter, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Sabudana Khichdi Variant 70,"Onion, Tomato, Spices, Oil, Salt","Prepare masala base, add main ingredient and cook till done."
+Chicken Tikka Variant 71,"Paneer, Cream, Butter, Spices","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Prawn Curry Variant 72,"Lentils, Ghee, Cumin, Mustard Seeds",Cook all ingredients on medium flame till soft and aromatic.
+Veg Kurma Variant 73,"Lentils, Ghee, Cumin, Mustard Seeds","Prepare masala base, add main ingredient and cook till done."
+Paneer Fried Rice Variant 74,"Rice, Vegetables, Ghee, Saffron, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Vegetable Soup Variant 75,"Rice, Vegetables, Ghee, Saffron, Spices","Heat oil, add spices, mix well and cook till desired texture."
+Rasgulla Variant 76,"Onion, Tomato, Spices, Oil, Salt",Cook all ingredients on medium flame till soft and aromatic.
+Vegetable Soup Variant 77,"Lentils, Ghee, Cumin, Mustard Seeds","Heat oil, add spices, mix well and cook till desired texture."
+Hakka Noodles Variant 78,"Lentils, Ghee, Cumin, Mustard Seeds","Prepare masala base, add main ingredient and cook till done."
+Mushroom Curry Variant 79,"Rice, Vegetables, Ghee, Saffron, Spices","Combine ingredients, cook covered for 15 minutes and serve."
+Curd Rice Variant 80,"Chicken, Garlic, Ginger, Onion, Tomato",Cook all ingredients on medium flame till soft and aromatic.
+Paneer Tikka Variant 81,"Rice, Vegetables, Ghee, Saffron, Spices","Prepare masala base, add main ingredient and cook till done."
+Egg Fried Rice Variant 82,"Chicken, Garlic, Ginger, Onion, Tomato","Prepare masala base, add main ingredient and cook till done."
+Veg Kurma Variant 83,"Chicken, Garlic, Ginger, Onion, Tomato",Cook all ingredients on medium flame till soft and aromatic.
+Veg Manchurian Variant 84,"Paneer, Cream, Butter, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Veg Manchurian Variant 85,"Paneer, Cream, Butter, Spices","Prepare masala base, add main ingredient and cook till done."
+Rasgulla Variant 86,"Rice, Vegetables, Ghee, Saffron, Spices","Combine ingredients, cook covered for 15 minutes and serve."
+Methi Malai Matar Variant 87,"Onion, Tomato, Spices, Oil, Salt","Combine ingredients, cook covered for 15 minutes and serve."
+Paratha Variant 88,"Paneer, Cream, Butter, Spices","Combine ingredients, cook covered for 15 minutes and serve."
+Chicken 65 Variant 89,"Onion, Tomato, Spices, Oil, Salt","Combine ingredients, cook covered for 15 minutes and serve."
+Hakka Noodles Variant 90,"Paneer, Cream, Butter, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Malai Kofta Variant 91,"Onion, Tomato, Spices, Oil, Salt",Cook all ingredients on medium flame till soft and aromatic.
+Jeera Rice Variant 92,"Chicken, Garlic, Ginger, Onion, Tomato",Cook all ingredients on medium flame till soft and aromatic.
+Curd Rice Variant 93,"Rice, Vegetables, Ghee, Saffron, Spices","Heat oil, add spices, mix well and cook till desired texture."
+Pesarattu Variant 94,"Lentils, Ghee, Cumin, Mustard Seeds",Cook all ingredients on medium flame till soft and aromatic.
+Chicken 65 Variant 95,"Paneer, Cream, Butter, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Curd Rice Variant 96,"Chicken, Garlic, Ginger, Onion, Tomato",Cook all ingredients on medium flame till soft and aromatic.
+Paneer Tikka Variant 97,"Paneer, Cream, Butter, Spices","Heat oil, add spices, mix well and cook till desired texture."
+Chicken Momos Variant 98,"Rice, Vegetables, Ghee, Saffron, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Chicken Tikka Variant 99,"Lentils, Ghee, Cumin, Mustard Seeds","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Egg Fried Rice Variant 100,"Paneer, Cream, Butter, Spices","Combine ingredients, cook covered for 15 minutes and serve."
+Paneer Tikka Variant 101,"Paneer, Cream, Butter, Spices","Heat oil, add spices, mix well and cook till desired texture."
+Jeera Rice Variant 102,"Onion, Tomato, Spices, Oil, Salt","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Chili Paneer Variant 103,"Chicken, Garlic, Ginger, Onion, Tomato","Heat oil, add spices, mix well and cook till desired texture."
+Dal Makhani Variant 104,"Paneer, Cream, Butter, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Jeera Rice Variant 105,"Paneer, Cream, Butter, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Sabudana Khichdi Variant 106,"Onion, Tomato, Spices, Oil, Salt","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Pesarattu Variant 107,"Chicken, Garlic, Ginger, Onion, Tomato","Combine ingredients, cook covered for 15 minutes and serve."
+Vegetable Soup Variant 108,"Chicken, Garlic, Ginger, Onion, Tomato","Prepare masala base, add main ingredient and cook till done."
+Besan Ladoo Variant 109,"Onion, Tomato, Spices, Oil, Salt","Prepare masala base, add main ingredient and cook till done."
+Methi Malai Matar Variant 110,"Lentils, Ghee, Cumin, Mustard Seeds","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Veg Momos Variant 111,"Rice, Vegetables, Ghee, Saffron, Spices","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Hakka Noodles Variant 112,"Lentils, Ghee, Cumin, Mustard Seeds",Cook all ingredients on medium flame till soft and aromatic.
+Pesarattu Variant 113,"Chicken, Garlic, Ginger, Onion, Tomato","Combine ingredients, cook covered for 15 minutes and serve."
+Veg Momos Variant 114,"Rice, Vegetables, Ghee, Saffron, Spices","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Chili Paneer Variant 115,"Paneer, Cream, Butter, Spices","Heat oil, add spices, mix well and cook till desired texture."
+Moong Dal Halwa Variant 116,"Chicken, Garlic, Ginger, Onion, Tomato","Prepare masala base, add main ingredient and cook till done."
+Rasgulla Variant 117,"Paneer, Cream, Butter, Spices","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Prawn Curry Variant 118,"Onion, Tomato, Spices, Oil, Salt","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Egg Curry Dry Variant 119,"Chicken, Garlic, Ginger, Onion, Tomato","Combine ingredients, cook covered for 15 minutes and serve."
+Lemon Rice Variant 120,"Lentils, Ghee, Cumin, Mustard Seeds","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Lemon Rice Variant 121,"Chicken, Garlic, Ginger, Onion, Tomato","Prepare masala base, add main ingredient and cook till done."
+Methi Malai Matar Variant 122,"Lentils, Ghee, Cumin, Mustard Seeds","Prepare masala base, add main ingredient and cook till done."
+Veg Kurma Variant 123,"Rice, Vegetables, Ghee, Saffron, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Chicken 65 Variant 124,"Chicken, Garlic, Ginger, Onion, Tomato","Prepare masala base, add main ingredient and cook till done."
+Sabudana Khichdi Variant 125,"Rice, Vegetables, Ghee, Saffron, Spices","Combine ingredients, cook covered for 15 minutes and serve."
+Malai Kofta Variant 126,"Chicken, Garlic, Ginger, Onion, Tomato","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Paratha Variant 127,"Lentils, Ghee, Cumin, Mustard Seeds","Heat oil, add spices, mix well and cook till desired texture."
+Chicken Momos Variant 128,"Lentils, Ghee, Cumin, Mustard Seeds","Prepare masala base, add main ingredient and cook till done."
+Tamarind Rice Variant 129,"Chicken, Garlic, Ginger, Onion, Tomato",Cook all ingredients on medium flame till soft and aromatic.
+Gajar Halwa Variant 130,"Lentils, Ghee, Cumin, Mustard Seeds","Heat oil, add spices, mix well and cook till desired texture."
+Veg Kurma Variant 131,"Onion, Tomato, Spices, Oil, Salt",Cook all ingredients on medium flame till soft and aromatic.
+Tandoori Chicken Variant 132,"Lentils, Ghee, Cumin, Mustard Seeds",Cook all ingredients on medium flame till soft and aromatic.
+Aloo Matar Variant 133,"Chicken, Garlic, Ginger, Onion, Tomato","Combine ingredients, cook covered for 15 minutes and serve."
+Gajar Halwa Variant 134,"Onion, Tomato, Spices, Oil, Salt","Combine ingredients, cook covered for 15 minutes and serve."
+Gajar Halwa Variant 135,"Rice, Vegetables, Ghee, Saffron, Spices","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Poori Bhaji Variant 136,"Onion, Tomato, Spices, Oil, Salt","Combine ingredients, cook covered for 15 minutes and serve."
+Pesarattu Variant 137,"Onion, Tomato, Spices, Oil, Salt","Prepare masala base, add main ingredient and cook till done."
+Vegetable Cutlet Variant 138,"Paneer, Cream, Butter, Spices","Prepare masala base, add main ingredient and cook till done."
+Veg Manchurian Variant 139,"Onion, Tomato, Spices, Oil, Salt","Heat oil, add spices, mix well and cook till desired texture."
+Mutton Korma Variant 140,"Rice, Vegetables, Ghee, Saffron, Spices","Combine ingredients, cook covered for 15 minutes and serve."
+Dal Makhani Variant 141,"Rice, Vegetables, Ghee, Saffron, Spices","Combine ingredients, cook covered for 15 minutes and serve."
+Vegetable Soup Variant 142,"Rice, Vegetables, Ghee, Saffron, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Dal Makhani Variant 143,"Rice, Vegetables, Ghee, Saffron, Spices","Heat oil, add spices, mix well and cook till desired texture."
+Paneer Tikka Variant 144,"Chicken, Garlic, Ginger, Onion, Tomato",Cook all ingredients on medium flame till soft and aromatic.
+Crab Masala Variant 145,"Lentils, Ghee, Cumin, Mustard Seeds","Heat oil, add spices, mix well and cook till desired texture."
+Chicken Momos Variant 146,"Lentils, Ghee, Cumin, Mustard Seeds","Combine ingredients, cook covered for 15 minutes and serve."
+Paneer Fried Rice Variant 147,"Onion, Tomato, Spices, Oil, Salt","Heat oil, add spices, mix well and cook till desired texture."
+Hakka Noodles Variant 148,"Lentils, Ghee, Cumin, Mustard Seeds","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Veg Momos Variant 149,"Chicken, Garlic, Ginger, Onion, Tomato","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Vegetable Cutlet Variant 150,"Onion, Tomato, Spices, Oil, Salt","Prepare masala base, add main ingredient and cook till done."
+Paratha Variant 151,"Chicken, Garlic, Ginger, Onion, Tomato","Heat oil, add spices, mix well and cook till desired texture."
+Chicken Tikka Variant 152,"Chicken, Garlic, Ginger, Onion, Tomato","Prepare masala base, add main ingredient and cook till done."
+Veg Manchurian Variant 153,"Lentils, Ghee, Cumin, Mustard Seeds","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Vegetable Soup Variant 154,"Onion, Tomato, Spices, Oil, Salt","Heat oil, add spices, mix well and cook till desired texture."
+Veg Kurma Variant 155,"Onion, Tomato, Spices, Oil, Salt","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Fish Fry Variant 156,"Chicken, Garlic, Ginger, Onion, Tomato",Cook all ingredients on medium flame till soft and aromatic.
+Chicken Tikka Variant 157,"Paneer, Cream, Butter, Spices","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Tomato Soup Variant 158,"Rice, Vegetables, Ghee, Saffron, Spices","Prepare masala base, add main ingredient and cook till done."
+Prawn Curry Variant 159,"Rice, Vegetables, Ghee, Saffron, Spices","Heat oil, add spices, mix well and cook till desired texture."
+Rasgulla Variant 160,"Onion, Tomato, Spices, Oil, Salt","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Poori Bhaji Variant 161,"Onion, Tomato, Spices, Oil, Salt",Cook all ingredients on medium flame till soft and aromatic.
+Paneer Tikka Variant 162,"Chicken, Garlic, Ginger, Onion, Tomato","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Lemon Rice Variant 163,"Chicken, Garlic, Ginger, Onion, Tomato","Heat oil, add spices, mix well and cook till desired texture."
+Paneer Fried Rice Variant 164,"Paneer, Cream, Butter, Spices","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Dal Makhani Variant 165,"Chicken, Garlic, Ginger, Onion, Tomato","Heat oil, add spices, mix well and cook till desired texture."
+Paneer Fried Rice Variant 166,"Rice, Vegetables, Ghee, Saffron, Spices","Heat oil, add spices, mix well and cook till desired texture."
+Fish Fry Variant 167,"Paneer, Cream, Butter, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Moong Dal Halwa Variant 168,"Lentils, Ghee, Cumin, Mustard Seeds","Heat oil, add spices, mix well and cook till desired texture."
+Chicken Tikka Variant 169,"Chicken, Garlic, Ginger, Onion, Tomato","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Chapati Variant 170,"Lentils, Ghee, Cumin, Mustard Seeds","Heat oil, add spices, mix well and cook till desired texture."
+Fish Fry Variant 171,"Onion, Tomato, Spices, Oil, Salt","Combine ingredients, cook covered for 15 minutes and serve."
+Jeera Rice Variant 172,"Paneer, Cream, Butter, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Vegetable Cutlet Variant 173,"Paneer, Cream, Butter, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Paneer Fried Rice Variant 174,"Chicken, Garlic, Ginger, Onion, Tomato","Combine ingredients, cook covered for 15 minutes and serve."
+Tomato Soup Variant 175,"Rice, Vegetables, Ghee, Saffron, Spices","Heat oil, add spices, mix well and cook till desired texture."
+Aloo Matar Variant 176,"Rice, Vegetables, Ghee, Saffron, Spices","Prepare masala base, add main ingredient and cook till done."
+Moong Dal Halwa Variant 177,"Paneer, Cream, Butter, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Prawn Curry Variant 178,"Onion, Tomato, Spices, Oil, Salt",Cook all ingredients on medium flame till soft and aromatic.
+Prawn Curry Variant 179,"Onion, Tomato, Spices, Oil, Salt","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Sabudana Khichdi Variant 180,"Lentils, Ghee, Cumin, Mustard Seeds","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Jeera Rice Variant 181,"Chicken, Garlic, Ginger, Onion, Tomato",Cook all ingredients on medium flame till soft and aromatic.
+Malai Kofta Variant 182,"Chicken, Garlic, Ginger, Onion, Tomato",Cook all ingredients on medium flame till soft and aromatic.
+Egg Fried Rice Variant 183,"Rice, Vegetables, Ghee, Saffron, Spices","Combine ingredients, cook covered for 15 minutes and serve."
+Rasgulla Variant 184,"Paneer, Cream, Butter, Spices","Combine ingredients, cook covered for 15 minutes and serve."
+Paratha Variant 185,"Paneer, Cream, Butter, Spices","Prepare masala base, add main ingredient and cook till done."
+Methi Malai Matar Variant 186,"Onion, Tomato, Spices, Oil, Salt","Prepare masala base, add main ingredient and cook till done."
+Egg Curry Dry Variant 187,"Chicken, Garlic, Ginger, Onion, Tomato","Heat oil, add spices, mix well and cook till desired texture."
+Sooji Halwa Variant 188,"Lentils, Ghee, Cumin, Mustard Seeds","Combine ingredients, cook covered for 15 minutes and serve."
+Poori Bhaji Variant 189,"Onion, Tomato, Spices, Oil, Salt","Combine ingredients, cook covered for 15 minutes and serve."
+Jeera Rice Variant 190,"Onion, Tomato, Spices, Oil, Salt","Heat oil, add spices, mix well and cook till desired texture."
+Tamarind Rice Variant 191,"Onion, Tomato, Spices, Oil, Salt","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Gajar Halwa Variant 192,"Rice, Vegetables, Ghee, Saffron, Spices","Prepare masala base, add main ingredient and cook till done."
+Prawn Curry Variant 193,"Lentils, Ghee, Cumin, Mustard Seeds","Heat oil, add spices, mix well and cook till desired texture."
+Tomato Soup Variant 194,"Rice, Vegetables, Ghee, Saffron, Spices","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Paneer Tikka Variant 195,"Paneer, Cream, Butter, Spices","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Paratha Variant 196,"Lentils, Ghee, Cumin, Mustard Seeds","Combine ingredients, cook covered for 15 minutes and serve."
+Tomato Soup Variant 197,"Paneer, Cream, Butter, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Jeera Rice Variant 198,"Paneer, Cream, Butter, Spices","Prepare masala base, add main ingredient and cook till done."
+Paneer Fried Rice Variant 199,"Onion, Tomato, Spices, Oil, Salt",Cook all ingredients on medium flame till soft and aromatic.
+Aloo Matar Variant 200,"Chicken, Garlic, Ginger, Onion, Tomato","Combine ingredients, cook covered for 15 minutes and serve."
+Mutton Korma Variant 201,"Chicken, Garlic, Ginger, Onion, Tomato","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Chicken 65 Variant 202,"Paneer, Cream, Butter, Spices","Heat oil, add spices, mix well and cook till desired texture."
+Moong Dal Halwa Variant 203,"Lentils, Ghee, Cumin, Mustard Seeds",Cook all ingredients on medium flame till soft and aromatic.
+Prawn Curry Variant 204,"Chicken, Garlic, Ginger, Onion, Tomato","Prepare masala base, add main ingredient and cook till done."
+Poori Bhaji Variant 205,"Paneer, Cream, Butter, Spices","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Aloo Matar Variant 206,"Onion, Tomato, Spices, Oil, Salt","Heat oil, add spices, mix well and cook till desired texture."
+Methi Malai Matar Variant 207,"Onion, Tomato, Spices, Oil, Salt","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Chapati Variant 208,"Paneer, Cream, Butter, Spices","Heat oil, add spices, mix well and cook till desired texture."
+Chicken 65 Variant 209,"Lentils, Ghee, Cumin, Mustard Seeds","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Vegetable Cutlet Variant 210,"Rice, Vegetables, Ghee, Saffron, Spices","Heat oil, add spices, mix well and cook till desired texture."
+Aloo Matar Variant 211,"Onion, Tomato, Spices, Oil, Salt","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Sabudana Khichdi Variant 212,"Onion, Tomato, Spices, Oil, Salt",Cook all ingredients on medium flame till soft and aromatic.
+Tandoori Chicken Variant 213,"Chicken, Garlic, Ginger, Onion, Tomato",Cook all ingredients on medium flame till soft and aromatic.
+Fish Fry Variant 214,"Rice, Vegetables, Ghee, Saffron, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Mushroom Curry Variant 215,"Paneer, Cream, Butter, Spices","Combine ingredients, cook covered for 15 minutes and serve."
+Veg Kurma Variant 216,"Onion, Tomato, Spices, Oil, Salt","Prepare masala base, add main ingredient and cook till done."
+Lemon Rice Variant 217,"Paneer, Cream, Butter, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Paneer Tikka Variant 218,"Lentils, Ghee, Cumin, Mustard Seeds","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Pesarattu Variant 219,"Chicken, Garlic, Ginger, Onion, Tomato","Heat oil, add spices, mix well and cook till desired texture."
+Chili Paneer Variant 220,"Rice, Vegetables, Ghee, Saffron, Spices","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Fish Fry Variant 221,"Onion, Tomato, Spices, Oil, Salt","Prepare masala base, add main ingredient and cook till done."
+Gajar Halwa Variant 222,"Rice, Vegetables, Ghee, Saffron, Spices","Combine ingredients, cook covered for 15 minutes and serve."
+Chicken Momos Variant 223,"Onion, Tomato, Spices, Oil, Salt",Cook all ingredients on medium flame till soft and aromatic.
+Veg Momos Variant 224,"Chicken, Garlic, Ginger, Onion, Tomato","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Dal Makhani Variant 225,"Onion, Tomato, Spices, Oil, Salt",Cook all ingredients on medium flame till soft and aromatic.
+Paratha Variant 226,"Rice, Vegetables, Ghee, Saffron, Spices","Combine ingredients, cook covered for 15 minutes and serve."
+Lemon Rice Variant 227,"Chicken, Garlic, Ginger, Onion, Tomato","Prepare masala base, add main ingredient and cook till done."
+Chapati Variant 228,"Paneer, Cream, Butter, Spices","Prepare masala base, add main ingredient and cook till done."
+Tamarind Rice Variant 229,"Lentils, Ghee, Cumin, Mustard Seeds","Combine ingredients, cook covered for 15 minutes and serve."
+Veg Kurma Variant 230,"Onion, Tomato, Spices, Oil, Salt","Heat oil, add spices, mix well and cook till desired texture."
+Vegetable Soup Variant 231,"Lentils, Ghee, Cumin, Mustard Seeds",Cook all ingredients on medium flame till soft and aromatic.
+Sabudana Khichdi Variant 232,"Lentils, Ghee, Cumin, Mustard Seeds",Cook all ingredients on medium flame till soft and aromatic.
+Hakka Noodles Variant 233,"Onion, Tomato, Spices, Oil, Salt","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Jeera Rice Variant 234,"Lentils, Ghee, Cumin, Mustard Seeds","Heat oil, add spices, mix well and cook till desired texture."
+Veg Kurma Variant 235,"Rice, Vegetables, Ghee, Saffron, Spices","Combine ingredients, cook covered for 15 minutes and serve."
+Methi Malai Matar Variant 236,"Rice, Vegetables, Ghee, Saffron, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Mutton Korma Variant 237,"Rice, Vegetables, Ghee, Saffron, Spices","Heat oil, add spices, mix well and cook till desired texture."
+Chili Paneer Variant 238,"Rice, Vegetables, Ghee, Saffron, Spices","Combine ingredients, cook covered for 15 minutes and serve."
+Tamarind Rice Variant 239,"Rice, Vegetables, Ghee, Saffron, Spices","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Jeera Rice Variant 240,"Lentils, Ghee, Cumin, Mustard Seeds",Cook all ingredients on medium flame till soft and aromatic.
+Sabudana Khichdi Variant 241,"Paneer, Cream, Butter, Spices","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Dal Makhani Variant 242,"Rice, Vegetables, Ghee, Saffron, Spices","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Dal Makhani Variant 243,"Paneer, Cream, Butter, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Moong Dal Halwa Variant 244,"Rice, Vegetables, Ghee, Saffron, Spices","Combine ingredients, cook covered for 15 minutes and serve."
+Moong Dal Halwa Variant 245,"Onion, Tomato, Spices, Oil, Salt","Prepare masala base, add main ingredient and cook till done."
+Mushroom Curry Variant 246,"Onion, Tomato, Spices, Oil, Salt","Heat oil, add spices, mix well and cook till desired texture."
+Pesarattu Variant 247,"Lentils, Ghee, Cumin, Mustard Seeds","Heat oil, add spices, mix well and cook till desired texture."
+Prawn Curry Variant 248,"Paneer, Cream, Butter, Spices","Heat oil, add spices, mix well and cook till desired texture."
+Paneer Fried Rice Variant 249,"Rice, Vegetables, Ghee, Saffron, Spices","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Crab Masala Variant 250,"Onion, Tomato, Spices, Oil, Salt","Prepare masala base, add main ingredient and cook till done."
+Egg Fried Rice Variant 251,"Lentils, Ghee, Cumin, Mustard Seeds","Combine ingredients, cook covered for 15 minutes and serve."
+Jeera Rice Variant 252,"Chicken, Garlic, Ginger, Onion, Tomato","Heat oil, add spices, mix well and cook till desired texture."
+Veg Momos Variant 253,"Rice, Vegetables, Ghee, Saffron, Spices","Prepare masala base, add main ingredient and cook till done."
+Gajar Halwa Variant 254,"Chicken, Garlic, Ginger, Onion, Tomato","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Prawn Curry Variant 255,"Rice, Vegetables, Ghee, Saffron, Spices",Cook all ingredients on medium flame till soft and aromatic.
+Tomato Soup Variant 256,"Onion, Tomato, Spices, Oil, Salt","Combine ingredients, cook covered for 15 minutes and serve."
+Lemon Rice Variant 257,"Rice, Vegetables, Ghee, Saffron, Spices","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Chapati Variant 258,"Onion, Tomato, Spices, Oil, Salt","Prepare masala base, add main ingredient and cook till done."
+Tandoori Chicken Variant 259,"Onion, Tomato, Spices, Oil, Salt","Prepare masala base, add main ingredient and cook till done."
+Sooji Halwa Variant 260,"Chicken, Garlic, Ginger, Onion, Tomato",Cook all ingredients on medium flame till soft and aromatic.
+Sooji Halwa Variant 261,"Onion, Tomato, Spices, Oil, Salt","Mix and sauté all items, simmer for 10 minutes and serve hot."
+Malai Kofta Variant 262,"Chicken, Garlic, Ginger, Onion, Tomato","Heat oil, add spices, mix well and cook till desired texture."
+Kashmiri Pulao Variant 263,"Onion, Tomato, Spices, Oil, Salt","Heat oil, add spices, mix well and cook till desired texture."
+Jeera Rice Variant 264,"Onion, Tomato, Spices, Oil, Salt","Prepare masala base, add main ingredient and cook till done."
+Curd Rice Variant 265,"Lentils, Ghee, Cumin, Mustard Seeds","Heat oil, add spices, mix well and cook till desired texture."
+Egg Curry Dry Variant 266,"Chicken, Garlic, Ginger, Onion, Tomato","Heat oil, add spices, mix well and cook till desired texture."
+Rasgulla Variant 267,"Rice, Vegetables, Ghee, Saffron, Spices","Heat oil, add spices, mix well and cook till desired texture."
+Chicken Tikka Variant 268,"Chicken, Garlic, Ginger, Onion, Tomato",Cook all ingredients on medium flame till soft and aromatic.
+Veg Momos Variant 269,"Paneer, Cream, Butter, Spices","Combine ingredients, cook covered for 15 minutes and serve."
+Egg Curry Dry Variant 270,"Chicken, Garlic, Ginger, Onion, Tomato","Combine ingredients, cook covered for 15 minutes and serve."
