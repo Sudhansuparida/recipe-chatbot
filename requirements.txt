@@ -1,0 +1,21 @@
+# --- Web Frameworks ---
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+python-multipart==0.0.9
+pydantic==2.9.2
+python-dotenv==1.0.1
+flask==3.0.3
+
+# --- Data Handling ---
+pandas==2.2.2
+scikit-learn==1.5.1
+tqdm==4.66.5
+typing-extensions==4.12.2
+
+# --- Machine Learning / NLP ---
+torch==2.2.2
+transformers==4.43.3
+sentence-transformers==5.1.2
+huggingface-hub==0.24.5
+
+openai==1.52.2
